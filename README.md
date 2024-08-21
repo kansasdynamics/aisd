@@ -1,2 +1,2 @@
 # aisd
-School Tracker
+Sample SQL queries for converting multiple spreadsheets into a single relational database.
